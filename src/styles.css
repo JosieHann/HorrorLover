@@ -73,8 +73,7 @@ button {
   border: solid 1px red;
   border-radius: 5px;
   font-weight: bold;
- display:block;
-  justify-content:center;
+text-align:center;
   font-size: 18px;
   margin: 0;
   font-family: monospace;
@@ -85,8 +84,7 @@ button {
   color: black;
   border: solid 1px red;
   font-weight: bold;
-  display:block
-  justify-content:center;
+  text-align:center;
   font-size: 18px;
   margin: 0;
   font-family: monospace;
