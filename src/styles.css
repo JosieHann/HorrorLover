@@ -162,7 +162,7 @@ button:hover {
   background: black;
   color: rgb(153, 4, 4);
 }
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 300px) {
   h2{
     font-size:26px;
   }
